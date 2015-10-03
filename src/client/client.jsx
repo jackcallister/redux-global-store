@@ -23,6 +23,4 @@ document.addEventListener('DOMContentLoaded', () => {
     </Provider>,
     document.getElementById('display')
   )
-
-  console.log(store)
 })
